@@ -1,0 +1,2 @@
+./wired.sh
+./wireless.sh
